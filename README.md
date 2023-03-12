@@ -8,10 +8,10 @@ The dataset used in this analysis is publicly available and can be downloaded fr
 The project is structured as follows:
 
 * data/ directory contains the raw data file train.csv.
-* notebooks/ directory contains the Jupyter notebooks with the EDA.
+* notebooks/ directory contains the Jupyter notebooks with the house_pricing_eda.ipynb.
 * README.md is the current file that provides an overview of the project.
 ## EDA
-The EDA is conducted in the notebooks/EDA.ipynb notebook. The analysis includes data cleaning, feature engineering, and data visualization. The aim is to explore the dataset, understand the relationships between variables, identify patterns, and uncover insights.
+The EDA is conducted in the notebooks/house_pricing_eda.ipynb notebook. The analysis includes data cleaning, feature engineering, and data visualization. The aim is to explore the dataset, understand the relationships between variables, identify patterns, and uncover insights.
 
 </br> The EDA is structured into the following sections:
 

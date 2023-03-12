@@ -2,7 +2,7 @@
 This repository contains an exploratory data analysis (EDA) of publicly available housing price data. The analysis is conducted using Python and its data analysis libraries, including Pandas, NumPy, and Matplotlib.
 
 ## Data
-The dataset used in this analysis is publicly available and can be downloaded from Kaggle. It contains 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. The dataset includes information about various features of the homes such as the number of bedrooms, square footage, location, etc.
+The dataset used in this analysis is publicly available and can be downloaded from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). It contains 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. The dataset includes information about various features of the homes such as the number of bedrooms, square footage, location, etc.
 
 ## Project Structure
 The project is structured as follows:
